@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/how-to-play/</loc>
-    <lastmod>2019-01-02T21:19:02+00:00</lastmod>
+    <loc>http://example.org/what/</loc>
+    <lastmod>2019-01-02T23:12:39+00:00</lastmod>
   </url>
   
   <url>
@@ -14,7 +14,7 @@
   
   <url>
     <loc>http://example.org/</loc>
-    <lastmod>2019-01-02T21:19:02+00:00</lastmod>
+    <lastmod>2019-01-02T23:12:39+00:00</lastmod>
     <priority>0</priority>
   </url>
   
