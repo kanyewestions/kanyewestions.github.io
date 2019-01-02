@@ -6,9 +6,19 @@
     <description>Recent content on Kan I Ask Ye a Queston?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jan 2019 21:19:02 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How_to_play</title>
+      <link>http://example.org/how_to_play/</link>
+      <pubDate>Wed, 02 Jan 2019 21:19:02 +0000</pubDate>
+      
+      <guid>http://example.org/how_to_play/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
