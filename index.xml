@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>How_to_play</title>
-      <link>http://example.org/how_to_play/</link>
+      <title>How to play</title>
+      <link>http://example.org/how-to-play/</link>
       <pubDate>Wed, 02 Jan 2019 21:19:02 +0000</pubDate>
       
-      <guid>http://example.org/how_to_play/</guid>
-      <description></description>
+      <guid>http://example.org/how-to-play/</guid>
+      <description> Do this Do this  </description>
     </item>
     
   </channel>
